@@ -1,8 +1,16 @@
+##############################################################
 #by Fredyms
+#Fredy Mardones S.
+#Administrador de Redes, Soporte y Asesor Informático
+#fredy.mardoness@gmail.com
+##############################################################
+
+#Adlist lista manual
 https://big.oisd.nl
 https://ioc.finsin.cl/Output_FINSIN_Domain
 https://ioc.finsin.cl/Output_FINSIN_URL
-#
+
+#BLock Youtube Ad blocklist by https://oisd.nl/faq#legacysyntaxes (Excel)
 https://raw.githubusercontent.com/Ewpratten/youtube_ad_blocklist/master/blocklist.txt
 https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
 https://raw.githubusercontent.com/LaurentFough/pihole-youtube-adblock/master/pihole-youtube-adblock.txt
@@ -15,4 +23,19 @@ https://blocklistproject.github.io/Lists/youtube.txt
 https://framagit.org/PoorPocketsMcNewHold/no-google/raw/master/categories/youtube.txt
 https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list
-#
+
+#Adlist by https://blocklist.sefinek.net (Excel)
+
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/abuse/blocklistproject/hosts.fork.txt
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/abuse/urlhaus.abuse.ch/hostfile.fork.txt
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/0Zinc/easylist.fork.txt
+https://blocklist.sefinek.net/generated/v1/0.0.0.0/ads/DandelionSprout.GameConsoleAdblockList.txt
+
+#Adlist by https://v.firebog.net/hosts/lists.php (Excel)(CSV)
+https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt
+https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts
+https://v.firebog.net/hosts/static/w3kbl.txt
+https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+https://someonewhocares.org/hosts/zero/hosts
+
+
