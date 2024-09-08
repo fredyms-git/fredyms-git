@@ -1,0 +1,18 @@
+#by Fredyms
+https://big.oisd.nl
+https://ioc.finsin.cl/Output_FINSIN_Domain
+https://ioc.finsin.cl/Output_FINSIN_URL
+#
+https://raw.githubusercontent.com/Ewpratten/youtube_ad_blocklist/master/blocklist.txt
+https://raw.githubusercontent.com/CitizenXVIL/Hosts/master/Youtube%20hosts.txt
+https://raw.githubusercontent.com/LaurentFough/pihole-youtube-adblock/master/pihole-youtube-adblock.txt
+https://raw.githubusercontent.com/Rafaelrico77/piholeyt/master/youtubeadblock.txt
+https://raw.githubusercontent.com/RootFiber/youtube-ads/main/ad-block-YouTube-Project.txt
+https://raw.githubusercontent.com/RootFiber/youtube-ads/main/blockeverything.txt
+https://raw.githubusercontent.com/anudeepND/youtubeadsblacklist/master/domainlist.txt
+https://adblock.amroemischengutshof.de/youtube-ads-list.txt
+https://blocklistproject.github.io/Lists/youtube.txt
+https://framagit.org/PoorPocketsMcNewHold/no-google/raw/master/categories/youtube.txt
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-YouTube-AdBlock-Filter.txt
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/black.list
+#
