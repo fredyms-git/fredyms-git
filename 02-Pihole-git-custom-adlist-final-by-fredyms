@@ -21,10 +21,10 @@ https://big.oisd.nl
 https://ioc.finsin.cl/Output_FINSIN_Domain
 https://ioc.finsin.cl/Output_FINSIN_URL
 
-https://oisd.nl/faq#legacysyntaxes 		#Contiene una lista de url adlist para bloquear youtube ads.
+#https://oisd.nl/faq#legacysyntaxes 		#Contiene una lista de url adlist para bloquear youtube ads.
 #Quitar adlist dead
 #anudeepND/youtubeadsblacklist/master/domainlist.txt -> Url Dead
-https://v.firebog.net/hosts/lists.php?type=all	#Contiene una lista de url adlist para bloquear ads y mas.
+#https://v.firebog.net/hosts/lists.php?type=all	#Contiene una lista de url adlist para bloquear ads y mas.
 
 #URL_ADLIST (Excel)
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
