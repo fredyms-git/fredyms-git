@@ -6,6 +6,8 @@
 #Update 10-09-2024
 ##############################################################
 
+#https://raw.githubusercontent.com/fredyms-git/fredyms-git/main/02-Pihole-git-custom-adlist-final-by-fredyms
+
 #Source:
 #https://big.oisd.nl
 #https://oisd.nl/faq#legacysyntaxes
@@ -88,3 +90,19 @@ https://malware-filter.gitlab.io/malware-filter/phishing-filter-domains.txt
 https://malware-filter.gitlab.io/malware-filter/tracking-data.txt
 https://tgc.cloud/downloads/hosts.txt
 https://adblock.amroemischengutshof.de/blacklist.txt
+
+#Bloquea IP publicas
+#Ideal para crear reglas en firewall y Routers
+#https://tech.lobobrothers.com/rematando-con-pfblockerng-en-pfsense/
+#https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+#https://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt
+#https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level1.netset
+#https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level2.netset
+#https://cinsscore.com/list/ci-badguys.txt
+#https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level3.netset
+#https://lists.blocklist.de/lists/all.txt
+#http://sanyalnet-cloud-vps2.freeddns.org/blocklist.txt o http://sanyalnet-cloud-vps.freeddns.org/blocklist.txt 
+
+#Proyecto Frances de la Universtié Toulouse Capitole
+#Recopila por categoría las amenzas de sitios web y dominios ideal para Pfblockerng para pFsense y Opnsense
+#https://dsi.ut-capitole.fr/blacklists/download/
