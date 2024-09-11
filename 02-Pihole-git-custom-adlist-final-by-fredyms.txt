@@ -6,7 +6,8 @@
 #Update 10-09-2024
 ##############################################################
 
-#https://raw.githubusercontent.com/fredyms-git/fredyms-git/main/02-Pihole-git-custom-adlist-final-by-fredyms
+#Mi recopilación de "Adlist" para Pihole o equivalentes
+#https://raw.githubusercontent.com/fredyms-git/fredyms-git/main/02-Pihole-git-custom-adlist-final-by-fredyms.txt
 
 #Source:
 #https://big.oisd.nl
