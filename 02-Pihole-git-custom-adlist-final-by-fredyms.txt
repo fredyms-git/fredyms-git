@@ -25,10 +25,10 @@ https://big.oisd.nl
 https://ioc.finsin.cl/Output_FINSIN_Domain
 https://ioc.finsin.cl/Output_FINSIN_URL
 
-#https://oisd.nl/faq#legacysyntaxes 		#Contiene una lista de url adlist para bloquear youtube ads.
+#https://oisd.nl/faq#legacysyntaxes 		#Contiene una lista de url adlist para bloquear youtube ads (multi-adlist).
 #Quitar adlist dead
 #anudeepND/youtubeadsblacklist/master/domainlist.txt -> Url Dead
-#https://v.firebog.net/hosts/lists.php?type=all	#Contiene una lista de url adlist para bloquear ads y mas.
+#https://v.firebog.net/hosts/lists.php?type=all	#Contiene una lista de url adlist para bloquear ads y mas (multi-adlist).
 
 #URL_ADLIST (Excel)
 https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
@@ -91,6 +91,7 @@ https://malware-filter.gitlab.io/malware-filter/phishing-filter-domains.txt
 https://malware-filter.gitlab.io/malware-filter/tracking-data.txt
 https://tgc.cloud/downloads/hosts.txt
 https://adblock.amroemischengutshof.de/blacklist.txt
+https://divested.dev/hosts	
 
 #Bloquea IP publicas
 #Ideal para crear reglas en firewall y Routers
@@ -108,10 +109,21 @@ https://adblock.amroemischengutshof.de/blacklist.txt
 #Recopila por categoría las amenzas de sitios web y dominios ideal para Pfblockerng para pFsense y Opnsense
 #https://dsi.ut-capitole.fr/blacklists/download/
 
-#Otro sitio que ha combiando todos los hosts en un solo archivo.
+#Otro sitio que ha combinado todos los hosts en un solo archivo.
 #Tambien ofrece por categoría
 #https://divested.dev/pages/dnsbl
 #https://divested.dev/hosts					#Combined Lists, une las listas de varios sitios web.
 
 #App Dnsfilter+Firewall con adlist (Excelente apps, super completo, mejor que Adaway)
 #https://rethinkdns.com/configure		#Recopila los links por categoria
+
+#Recopilación de adlist por adaway, está descontinuado.
+#https://github.com/AdAway/adaway/wiki/HostsSources
+
+#Sitio Japones (traducir) permite analizar los host
+#https://hostsaway.appspot.com/
+
+#Otro sitio que recopila multi-adlist 370 en un solo archivo.
+#Son demasiados y pueden generar falso-positivo, además de repetir los hosts.
+#https://github.com/hl2guide/Filterlist-for-AdGuard-or-PiHole?tab=readme-ov-file#filter-lists-%EF%B8%8F
+#https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard-or-PiHole/master/filter_list_URLs.txt
