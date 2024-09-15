@@ -107,3 +107,11 @@ https://adblock.amroemischengutshof.de/blacklist.txt
 #Proyecto Frances de la Universtié Toulouse Capitole
 #Recopila por categoría las amenzas de sitios web y dominios ideal para Pfblockerng para pFsense y Opnsense
 #https://dsi.ut-capitole.fr/blacklists/download/
+
+#Otro sitio que ha combiando todos los hosts en un solo archivo.
+#Tambien ofrece por categoría
+#https://divested.dev/pages/dnsbl
+#https://divested.dev/hosts					#Combined Lists, une las listas de varios sitios web.
+
+#App Dnsfilter+Firewall con adlist (Excelente apps, super completo, mejor que Adaway)
+#https://rethinkdns.com/configure		#Recopila los links por categoria
