@@ -8,6 +8,8 @@
 
 #Mi recopilación de "Adlist" para Pihole o equivalentes
 #https://raw.githubusercontent.com/fredyms-git/fredyms-git/main/02-Pihole-git-custom-adlist-final-by-fredyms.txt
+#https://raw.githubusercontent.com/fredyms-git/fredyms-git/main/03-Pihole-git-custom-android-adlist-final-by-fredyms
+#https://github.com/fredyms-git/fredyms-git
 
 #Source:
 #https://big.oisd.nl
