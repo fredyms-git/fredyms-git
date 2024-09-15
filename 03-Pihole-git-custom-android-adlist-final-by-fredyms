@@ -1,0 +1,33 @@
+##############################################################
+#by Fredyms
+#Fredy Mardones S.
+#Administrador de Redes, Soporte y Asesor Informático
+#fredy.mardoness@gmail.com
+#Update 15-09-2024
+##############################################################
+
+#Mi recopilación de "Adlist" para Adaway Apps (Android) o equivalentes.
+#Otra Apps alternativa es Rethinkdns (Mejor, automatico, icluye todas las listas por categoria y mas)
+#App Dnsfilter+Firewall con adlist (Excelente apps, super completo, mejor que Adaway)
+#No utilizar el firewall consume mucha bateria
+#https://rethinkdns.com/configure		#Recopila los links por categoria
+
+#Adlist lista manual
+https://big.oisd.nl
+#Adlist en Chile
+https://ioc.finsin.cl/Output_FINSIN_Domain
+https://ioc.finsin.cl/Output_FINSIN_URL
+
+#Divested, recopila los host "uniq" de varios sitios en un solo archivo.
+https://divested.dev/hosts
+https://adaway.org/hosts.txt
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=0&mimetype=plaintext
+https://v.firebog.net/hosts/AdguardDNS.txt
+https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt
+https://v.firebog.net/hosts/Easylist.txt
+https://blocklistproject.github.io/Lists/ads.txt
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
+https://urlhaus.abuse.ch/downloads/hostfile/
+https://tgc.cloud/downloads/hosts.txt
